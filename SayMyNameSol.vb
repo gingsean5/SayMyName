@@ -5,7 +5,7 @@ Option Explicit On
 'RCET0265
 'Fall 2020
 'Simple Calculator
-'
+'https://github.com/gingsean5/SayMyName
 Module SayMyNameSol
 
     Sub Main()
