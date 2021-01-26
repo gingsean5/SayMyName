@@ -4,7 +4,7 @@ Option Explicit On
 'Sean Gingerich
 'RCET0265
 'Fall 2020
-'Simple Calculator
+'Say My Name
 'https://github.com/gingsean5/SayMyName
 Module SayMyNameSol
 
